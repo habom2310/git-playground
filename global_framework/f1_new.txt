@@ -1,1 +1,1 @@
-update f1 new in f2 branch
+update in f1 branch, now in same line but in f2

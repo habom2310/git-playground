@@ -1,1 +1,2 @@
 modify f6
+modify f6 2
